@@ -59,23 +59,23 @@ END
 
 I leveraged Tableau for exploratory data analysis and visualization.
 
-The KPIs and metrics derived from the hospital's ER data include:
+#### The KPIs and metrics derived from the hospital's ER data include:
 
 - Number of ER patients- 9,216
 - Average Age of ER patients- 40yrs
 - Average patient wait time- 35.26mins
 - Average patient satisfaction score- 4.99
 
-- Top 3 Department referral to ER
+#### Top 3 Department referral to ER
  - No referral- 5400
  - General Practice- 1,840
  - Orthopedics- 995
 
-- Number of Patients by Race
+#### Number of Patients by Race
   - Top 2 races visiting the ER are White and African American
   - Least 2 races visiting the ER are Native Americans and Pacific Islanders
 
-- Average Patient Wait Time By Month
+#### Average Patient Wait Time By Month
  - Maximum- 36.67mins in February
  - Minimum- 34.50mins in October
 
