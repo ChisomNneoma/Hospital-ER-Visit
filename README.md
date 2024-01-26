@@ -1,19 +1,13 @@
 # Hospital Emergency Room Visit Analysis
 
 ### For Easy Access
-[Project Overview](project-overview)
-
-[Tools](toolsl)
-
-[Exploratory Data Analysis](exploratory-data-analysis)
-
-[Data Analysis](results/findings)
-
-[Results/Findings](results/findings)
-
-[Recommendations](recommendations)
-
-[View Dashboard](view-dashboard)
+- [Project Overview](#project-overview)
+- [Tools](#tools)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results And Findings](#results-and-findings)
+- [Recommendations](#recommendations)
+- [View Dashboard](#view-dashboard)
 
 
 ### Project Overview
@@ -55,7 +49,7 @@ END
 
 ```
 
-### Results/Findings
+### Results And Findings
 
 I leveraged Tableau for exploratory data analysis and visualization.
 
@@ -87,7 +81,7 @@ I leveraged Tableau for exploratory data analysis and visualization.
 2. Adequate Planning: Leveraging this analysis, ER should plan ahead and adjust staffing levels to meet current demands, while working on preventing understaffing during busy periods.
 
 
-### View DashboardDashboard
+### View Dashboard
 
-To view and interact with dashboard, [click here.]()
+To view and interact with dashboard, [click here.](https://public.tableau.com/views/HospitalEmergencyRoom_17046421861900/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
